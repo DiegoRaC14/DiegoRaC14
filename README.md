@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello everyone! 🖖
+My name is Diego, I'm an undergrad student of data science, passionate about programming, swimming, learning new languages and hanging out with my friends.
+
+🧑‍💻 I'm currently working on personal projects for learning new things
 
 <!--
 **DiegoRaC14/DiegoRaC14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
