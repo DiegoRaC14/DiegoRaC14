@@ -14,8 +14,7 @@ I'm open to collaborating on educational or real-world data science projects. Fe
 
 ### 🗣️ How to reach me:
 - 📬 **Email:** diego.ramos.1408@gmail.com  
-- 📲 **LinkedIn:** [linkedin.com/in/diego-ramos-crespo](https://www.linkedin.com/in/diego-ramos-crespo)  
-- 💻 **GitHub:** [github.com/DiegoRaC14](https://github.com/DiegoRaC14)
+- 📲 **LinkedIn:** [linkedin.com/in/diego-ramos-crespo](https://www.linkedin.com/in/diego-ramos-crespo
 
 
 <!--
