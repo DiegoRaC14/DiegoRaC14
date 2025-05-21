@@ -2,14 +2,10 @@
 
 I'm **Diego Ramos**, a Data Science undergraduate, passionate about **programming**, **math**, **AI**, and a bit of swimming too 🏊‍♂️. I love learning new things and sharing knowledge with the community.
 
-<br>
-
 ### 🧑‍💻 I'm working on:
 - 🧠 Personal projects to explore **machine learning**, **neural networks**, and **statistics**
 - 📊 Always diving deeper into **AI** and data-driven methods
 - 👥 Building a collection of projects in both English and Spanish, hoping they can be helpful to other comunnity members
-
-<br>
 
 ### 🌎 Let's collaborate!
 I'm open to collaborating on educational or real-world data science projects. Feel free to reach out!
