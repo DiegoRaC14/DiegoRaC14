@@ -5,7 +5,7 @@ I'm **Diego Ramos**, a Data Science undergraduate, passionate about **programmin
 ### 🧑‍💻 I'm working on:
 - 🧠 Personal projects to explore **machine learning**, **neural networks**, and **statistics**
 - 📊 Always diving deeper into **AI** and data-driven methods
-- 👥 Building a collection of projects in both English and Spanish, hoping they can be helpful to other comunnity members
+- 👥 Building a collection of projects in both English and Spanish, hoping they can be helpful to other community members
 
 ### 🌎 Let's collaborate!
 I'm open to collaborating on educational or real-world data science projects. Feel free to reach out!
