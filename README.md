@@ -14,7 +14,7 @@ I'm **Diego Ramos**, a Data Science undergraduate, passionate about **programmin
 ### 🌎 Let's collaborate!
 I'm open to collaborating on educational or real-world data science projects. Feel free to reach out!
 
---- <!--- Add line ---!>
+---
 
 ### 🗣️ How to reach me:
 - 📬 **Email:** diego.ramos.1408@gmail.com  
