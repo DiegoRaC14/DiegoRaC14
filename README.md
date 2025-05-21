@@ -1,14 +1,25 @@
 ## Hi everyone! 🖖
-My name is Diego, I'm currently bachelor on data science. Passionate about programming, maths, swimming and hanging out with my friends.
 
-🧑‍💻 I'm currently working on personal projects for learning new things\
-🤖 I'm into AI, machine learning, neural networks and statistics
-🎯 Here you can find my personal projects in english and spanish, hope they can be useful for the community!
-👥 Open to collaborate in projects 
+I'm **Diego Ramos**, a Data Science undergraduate, passionate about **programming**, **math**, **AI**, and a bit of swimming too 🏊‍♂️. I love learning new things and sharing knowledge with the community.
 
-How to reach me:
-📬 Email: diego.ramos.1408@gmail.com
-📲 LinkedIn: [lindekin.com/in/diego-ramos-crespo](https://www.linkedin.com/in/diego-ramos-crespo)
+<br>
+
+### 🧑‍💻 I'm working on:
+- 🧠 Personal projects to explore **machine learning**, **neural networks**, and **statistics**
+- 📊 Always diving deeper into **AI** and data-driven methods
+- 👥 Building a collection of projects in both English and Spanish, hoping they can be helpful to other comunnity members
+
+<br>
+
+### 🌎 Let's collaborate!
+I'm open to collaborating on educational or real-world data science projects. Feel free to reach out!
+
+--- <!--- Add line ---!>
+
+### 🗣️ How to reach me:
+- 📬 **Email:** diego.ramos.1408@gmail.com  
+- 📲 **LinkedIn:** [linkedin.com/in/diego-ramos-crespo](https://www.linkedin.com/in/diego-ramos-crespo)  
+- 💻 **GitHub:** [github.com/DiegoRaC14](https://github.com/DiegoRaC14)
 
 
 <!--
