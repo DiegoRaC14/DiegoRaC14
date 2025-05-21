@@ -1,7 +1,7 @@
 ## Hi everyone! 🖖
 My name is Diego, I'm currently bachelor on data science. Passionate about programming, maths, swimming and hanging out with my friends.
 
-🧑‍💻 I'm currently working on personal projects for learning new things
+🧑‍💻 I'm currently working on personal projects for learning new things\
 🤖 I'm into AI, machine learning, neural networks and statistics
 🎯 Here you can find my personal projects in english and spanish, hope they can be useful for the community!
 👥 Open to collaborate in projects 
